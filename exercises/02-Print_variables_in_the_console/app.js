@@ -1,4 +1,4 @@
-let mySuperVariable = 'hello';
+mySuperVariable = 'hello';
 console.log(mySuperVariable);
 
 // your code below
